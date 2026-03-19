@@ -151,21 +151,26 @@
     background-attachment: fixed;
   }
 
-  /* Headings */
+  /* Headings: Montserrat Bold */
   h1, h2, h3, h4, h5, h6 {
-    @apply font-heading tracking-tight text-balance;
+    @apply font-heading font-bold tracking-tight text-balance;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
   }
 
-  h1 {
-    @apply font-bold text-4xl md:text-5xl lg:text-6xl;
+  /* Subtitles: Montserrat SemiBold Italic */
+  .subtitle, .subtitle-italic {
+    @apply font-heading italic text-balance;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-style: italic;
   }
 
-  h2 {
-    @apply font-semibold text-3xl md:text-4xl;
-  }
-
-  /* Paragraphs */
-  p {
-    @apply leading-relaxed text-pretty;
+  /* Body: Montserrat Regular */
+  body, p, .body-text {
+    @apply font-body antialiased text-foreground;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: normal;
   }
 }

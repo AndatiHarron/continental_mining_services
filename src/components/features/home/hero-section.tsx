@@ -110,6 +110,7 @@ export const HeroSection = () => {
             title={t("hero.image.alt")}
             width={1920}
           />
+          <div className="absolute inset-0 bg-black/70" style={{zIndex:1}} />
         </motion.div>
       </div>
 
