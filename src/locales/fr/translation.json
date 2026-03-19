@@ -1,0 +1,402 @@
+{
+  "welcome": "Welcome to our app - fr",
+  "description": "Your go-to multilingual React application. - fr",
+  "hero": {
+    "badge": "Partenaire Minier de Premier Plan en Sierra Leone",
+    "heading": {
+      "part1": "Logistique Minière",
+      "part2": "Leaders dans la Région"
+    },
+    "description": "Du Transport de Minerai à la Location d'Équipements Lourds. Nous offrons capacité, sécurité et efficacité à vos opérations.",
+    "button": {
+      "quote": "Demander un Devis",
+      "fleet": "Voir la Flotte de Location"
+    },
+    "image": {
+      "alt": "Motif de Carte Topographique"
+    }
+  },
+  "services": {
+    "heading": "Services Principaux",
+    "description": "Solutions complètes de soutien minier adaptées au terrain difficile de la Sierra Leone.",
+    "items": {
+      "oreHaulage": {
+        "title": "Chargement et Transport de Minerai",
+        "description": "Camions-bennes à haute capacité conçus pour le transport efficace de minerai sur terrain accidenté. Nous garantissons que votre production atteint sa destination en toute sécurité."
+      },
+      "drilling": {
+        "title": "Forage Minier",
+        "description": "Services de forage de précision avec des équipes expérimentées et des équipements de pointe pour l'exploration et la production."
+      },
+      "logistics": {
+        "title": "Logistique",
+        "description": "Transport sécurisé de remorques plates et de conteneurs dans toute la région. Nous gérons la logistique complexe pour que vous puissiez vous concentrer sur l'exploitation minière."
+      }
+    }
+  },
+  "rental": {
+    "heading": "Flotte Disponible à la Location",
+    "description": "Machinerie lourde moderne et bien entretenue prête à être déployée.",
+    "button": {
+      "fleet": "Voir la Flotte Complète"
+    },
+    "items": {
+      "excavators": {
+        "title": "Pelles Mécaniques",
+        "description": "Pelles mécaniques robustes pour les travaux de terrassement à grande échelle."
+      },
+      "bulldozers": {
+        "title": "Bulldozers",
+        "description": "Bulldozers puissants pour le déblaiement et la préparation des sites."
+      },
+      "loaders": {
+        "title": "Chargeuses Frontales",
+        "description": "Chargeuses polyvalentes pour la manutention et le chargement de matériaux."
+      },
+      "dumpTrucks": {
+        "title": "Camions à Benne Basculante Lourds",
+        "description": "Configurations 6x6 et 8x8 pour tous les terrains."
+      }
+    },
+    "card": {
+      "viewSpecs": "Voir les Spécifications"
+    }
+  },
+  "keyAttributes": {
+    "heading": "Pourquoi Nous Choisir",
+    "description": "Notre engagement envers l'excellence guide tout ce que nous faisons.",
+    "items": {
+      "capacity": {
+        "title": "Capacité",
+        "description": "Nos camions offrent une **capacité supérieure** pour les besoins de transport lourd.",
+        "boldText": "capacité supérieure"
+      },
+      "reliability": {
+        "title": "Fiabilité",
+        "description": "Conçus pour une **fiabilité maximale**, garantissant des performances constantes sur site.",
+        "boldText": "fiabilité maximale"
+      },
+      "efficiency": {
+        "title": "Efficacité",
+        "description": "Conçus pour améliorer **l'efficacité opérationnelle** et réduire les temps de transit.",
+        "boldText": "l'efficacité opérationnelle"
+      },
+      "versatility": {
+        "title": "Polyvalence",
+        "description": "Nos camions sont **polyvalents** pour diverses applications de transport.",
+        "boldText": "polyvalents"
+      }
+    }
+  },
+  "cta": {
+    "heading": "Prêt à Optimiser Vos Opérations ?",
+    "description": "Contactez-nous dès aujourd'hui pour discuter de vos besoins en logistique minière et en équipements.",
+    "button": "Nous Contacter"
+  },
+  "nav": {
+    "links": {
+      "home": "Accueil",
+      "fleetRentals": "Location de Flotte",
+      "services": "Services",
+      "contact": "Contact",
+      "aboutUs": "À Propos"
+    },
+    "button": {
+      "quote": "Demander un Devis"
+    },
+    "mobile": {
+      "language": "Langue"
+    }
+  },
+  "footer": {
+    "description": "Offrant capacité, sécurité et efficacité au secteur minier de la Sierra Leone.",
+    "sections": {
+      "contact": "Contact",
+      "quickLinks": "Liens Rapides"
+    },
+    "location": "Sierra Leone",
+    "links": {
+      "home": "Accueil",
+      "services": "Services",
+      "contact": "Contact",
+      "equipmentRental": "Location d'Équipement"
+    },
+    "copyright": "Continental Mining Services. Tous droits réservés.",
+    "privacyPolicy": "Politique de Confidentialité"
+  },
+  "about": {
+    "pageMeta": {
+      "title": "À Propos de Continental Mining Services - Partenaire Minier en Sierra Leone | Continental Mining Services",
+      "slug": "/about",
+      "description": "Découvrez Continental Mining Services, notre mission en Sierra Leone et notre engagement envers la sécurité et l'excellence opérationnelle."
+    },
+    "pageHeader": {
+      "title": "Construire l'Avenir Minier de l'Afrique",
+      "subtitle": "Un partenaire dédié pour la logistique lourde et le soutien minier en Afrique de l'Ouest.",
+      "breadcrumbs": ["Accueil", "À Propos"]
+    },
+    "companyProfile": {
+      "headline": "Qui Nous Sommes",
+      "bodyParagraphs": [
+        "Continental Mining Services (CMS) est un fournisseur de premier plan de services de logistique et de soutien minier basé à Freetown, en Sierra Leone. Nous nous spécialisons dans le 'dernier kilomètre' critique des opérations minières—du transport de minerai et du forage de précision au déplacement de machinerie lourde.",
+        "Fondée avec une vision de moderniser l'infrastructure minière locale, CMS combine les normes de sécurité internationales avec une connaissance approfondie du terrain ouest-africain. Notre flotte est maintenue selon des normes rigoureuses, garantissant que vos opérations ne rencontrent jamais d'arrêt en raison d'une défaillance d'équipement."
+      ],
+      "imageAlt": "Salle de réunion industrielle avec des ingénieurs regardant des plans miniers, éclairage professionnel",
+      "statBadges": ["100% Expertise Locale", "Support Opérationnel 24/7"]
+    },
+    "missionVisionValues": {
+      "mission": {
+        "title": "Notre Mission",
+        "text": "Fournir des services de soutien minier fiables, sûrs et efficaces qui permettent à nos clients de maximiser leur potentiel d'extraction tout en minimisant les risques opérationnels."
+      },
+      "vision": {
+        "title": "Notre Vision",
+        "text": "Devenir le partenaire de logistique minière de premier plan en Afrique de l'Ouest, reconnu pour notre intégrité, notre flotte moderne et notre engagement indéfectible envers la sécurité."
+      },
+      "coreValues": {
+        "title": "Valeurs Fondamentales",
+        "list": [
+          "Sécurité d'Abord",
+          "Intégrité Opérationnelle",
+          "Respect de la Communauté",
+          "Excellence Technique"
+        ]
+      }
+    },
+    "safetyCommitment": {
+      "headline": "Normes de Sécurité Intransigeantes",
+      "text": "Dans l'industrie minière, la sécurité n'est pas seulement une politique—c'est notre culture. Tous les opérateurs CMS suivent une formation rigoureuse, et notre machinerie est équipée de télémétrie moderne et de fonctionnalités de sécurité pour protéger à la fois le personnel et l'environnement.",
+      "ctaButton": {
+        "text": "Voir Notre Politique de Sécurité",
+        "link": "#"
+      }
+    },
+    "regionFocus": {
+      "headline": "Opérant en Sierra Leone",
+      "text": "Basés à Freetown, nous comprenons les défis logistiques uniques de la région. Des districts du nord riches en minerai de fer aux champs de diamants de l'est, CMS a la capacité de déployer des équipements et du personnel là où vous en avez le plus besoin.",
+      "mapHighlight": "Sierra Leone"
+    },
+    "companyAttributes": {
+      "heading": "Nos Forces Principales",
+      "description": "Construit sur une base d'excellence et d'innovation.",
+      "items": {
+        "capacity": {
+          "title": "Capacité",
+          "description": "Nos grues offrent des capacités de levage de 70mt à 130mt.",
+          "boldText": "70mt à 130mt"
+        },
+        "versatility": {
+          "title": "Polyvalence",
+          "description": "Conçues pour diverses applications de levage dans l'exploitation minière.",
+          "boldText": "diverses applications de levage"
+        },
+        "safety": {
+          "title": "Sécurité",
+          "description": "Équipées de fonctionnalités de sécurité avancées pour des opérations **sécurisées**.",
+          "boldText": "sécurisées"
+        },
+        "technology": {
+          "title": "Technologie",
+          "description": "Intègre une technologie moderne pour améliorer l'efficacité du levage.",
+          "boldText": "technologie moderne"
+        }
+      }
+    },
+    "cta": {
+      "headline": "Prêt à Optimiser Votre Opération ?",
+      "subheadline": "Contactez notre équipe pour discuter de vos besoins de projet.",
+      "buttonText": "Nous Contacter"
+    }
+  },
+  "servicesPage": {
+    "pageMeta": {
+      "title": "Services Miniers - Transport de Minerai, Forage et Location d'Équipements | Continental Mining Services",
+      "slug": "/services",
+      "description": "Solutions minières complètes incluant le transport de minerai, le forage de précision et la logistique lourde en Sierra Leone."
+    },
+    "pageHeader": {
+      "title": "Excellence Opérationnelle",
+      "subtitle": "Offrant des solutions efficaces, sûres et évolutives pour le cycle de vie minier.",
+      "breadcrumbs": ["Accueil", "Services"]
+    },
+    "introText": {
+      "headline": "Soutien Minier de Bout en Bout",
+      "text": "Continental Mining Services rationalise vos opérations en comblant le fossé entre l'extraction et l'exportation. Notre approche intégrée garantit que, du moment où le minerai est foré jusqu'au moment où il atteint le port, vos matériaux se déplacent efficacement."
+    },
+    "detailedList": {
+      "oreHaulage": {
+        "title": "Chargement et Transport de Minerai",
+        "subtitle": "Mouvement de Matériaux à Grand Volume",
+        "description": "Notre compétence principale réside dans le chargement et le transport efficaces des matériaux minés. Nous utilisons une flotte de camions-bennes à haute capacité et de chargeuses frontales conçues pour gérer le terrain accidenté des districts miniers de la Sierra Leone.",
+        "featureCards": [
+          {
+            "title": "Opérations Efficaces",
+            "description": "Notre équipe excelle dans le chargement et le transport sécurisé du minerai."
+          },
+          {
+            "title": "Transport Sécurisé",
+            "description": "Nous garantissons une livraison sécurisée du minerai aux clients."
+          }
+        ],
+        "ctaText": "Demander un Devis de Transport"
+      },
+      "mineDrilling": {
+        "title": "Services de Forage Minier",
+        "subtitle": "Extraction et Exploration de Précision",
+        "description": "Nous offrons des services de forage spécialisés pour l'exploration et le forage de trous de mine. Nos équipes expérimentées utilisent des installations modernes pour garantir la précision de la profondeur et l'intégrité des échantillons, essentielles pour l'évaluation géologique et le dynamitage efficace.",
+        "featureCards": [
+          {
+            "title": "Forage de Précision",
+            "description": "Techniques avancées pour l'extraction précise des minéraux."
+          },
+          {
+            "title": "Équipe Expérimentée",
+            "description": "Professionnels qualifiés garantissant des opérations efficaces."
+          }
+        ],
+        "ctaText": "Discuter des Besoins de Forage"
+      },
+      "flatbedCargo": {
+        "title": "Mouvement de Cargaison sur Remorque Plate",
+        "subtitle": "Transport de Machinerie Lourde",
+        "description": "Nous fournissons des services fiables de mouvement de cargaison sur remorque plate pour transporter de la machinerie et des équipements lourds sur tous les terrains. Notre flotte est équipée pour répondre aux besoins logistiques à grande échelle avec précision et soin.",
+        "featureCards": [
+          {
+            "title": "Transport Efficace",
+            "description": "Logistique fiable pour le transport de matériaux lourds."
+          },
+          {
+            "title": "Opérations Fluides",
+            "description": "Processus rationalisés pour un chargement et déchargement rapides."
+          },
+          {
+            "title": "Solutions Polyvalentes",
+            "description": "Services adaptables pour divers besoins de cargaison."
+          }
+        ],
+        "ctaText": "Obtenir les Tarifs de Remorque Plate"
+      },
+      "containerMovement": {
+        "title": "Mouvement de Conteneurs",
+        "subtitle": "Connectivité Port-Site",
+        "description": "Nous facilitons le mouvement fluide des conteneurs des ports à votre site. Nos services garantissent un transport sécurisé et ponctuel des conteneurs d'expédition, soutenant vos opérations de chaîne d'approvisionnement.",
+        "featureCards": [
+          {
+            "title": "Chargement Efficace",
+            "description": "Nous facilitons des opérations de chargement et déchargement fluides."
+          },
+          {
+            "title": "Livraison Ponctuelle",
+            "description": "Garantissant un transport à temps vers les destinations spécifiées."
+          }
+        ],
+        "ctaText": "Demander des Services de Conteneurs"
+      },
+      "tipperTruckRentals": {
+        "title": "Location de Camions-Bennes",
+        "subtitle": "Solutions de Véhicules à Haute Capacité",
+        "description": "Notre flotte de location de camions-bennes offre des véhicules à haute capacité pour divers besoins de transport. Que ce soit pour des opérations minières ou des projets de construction, nous fournissons des camions bien entretenus prêts à être déployés.",
+        "featureCards": [
+          {
+            "title": "Flotte à Haute Capacité",
+            "description": "Camions disponibles pour divers besoins de transport."
+          },
+          {
+            "title": "Équipement Fiable",
+            "description": "Véhicules bien entretenus garantissant une performance constante."
+          }
+        ],
+        "ctaText": "Voir la Flotte de Camions"
+      },
+      "earthMovingRental": {
+        "title": "Location d'Équipement de Terrassement",
+        "subtitle": "Solutions de Machinerie Avancée",
+        "description": "Nous offrons la location de machinerie avancée pour les travaux de terrassement et de construction. Notre flotte comprend des excavatrices, des bulldozers et des compacteurs, tous entretenus selon les normes les plus élevées pour répondre aux besoins de votre projet.",
+        "featureCards": [
+          {
+            "title": "Équipement Moderne",
+            "description": "Machinerie avancée pour les travaux de terrassement et de construction."
+          },
+          {
+            "title": "Conditions de Location Flexibles",
+            "description": "Solutions de location adaptables pour correspondre au calendrier de votre projet."
+          }
+        ],
+        "ctaText": "Parcourir l'Équipement"
+      }
+    },
+    "rentalTeaser": {
+      "headline": "Besoin de Machinerie ?",
+      "text": "Nous offrons également la location directe de notre flotte d'équipements lourds, y compris des excavatrices, des bulldozers et des compacteurs.",
+      "buttonText": "Voir le Catalogue de Location",
+      "buttonLink": "/"
+    },
+    "ctaBanner": {
+      "headline": "Rationalisez Vos Opérations Aujourd'hui",
+      "subheadline": "Contactez notre équipe de Freetown pour une proposition de service personnalisée.",
+      "buttonText": "Nous Contacter"
+    }
+  },
+  "contactPage": {
+    "pageMeta": {
+      "title": "Nous Contacter - Services Miniers à Freetown, Sierra Leone | Continental Mining Services",
+      "slug": "/contact-us",
+      "description": "Contactez Continental Mining Services à Freetown pour des devis sur le transport de minerai, le forage et la location d'équipements."
+    },
+    "pageHeader": {
+      "breadcrumbs": ["Accueil", "Contact"],
+      "title": "Démarrez Votre Projet",
+      "subtitle": "Contactez notre équipe pour des demandes de renseignements, la disponibilité de la flotte et les devis de projet."
+    },
+    "contactInfo": {
+      "title": "Informations de Contact",
+      "description": "Notre équipe est disponible pour discuter de vos besoins en logistique minière.",
+      "headquarters": {
+        "label": "Siège Social",
+        "location": "Freetown, Sierra Leone"
+      },
+      "email": {
+        "label": "Envoyez-nous un Email"
+      },
+      "phone": {
+        "label": "Appelez-nous"
+      }
+    },
+    "form": {
+      "title": "Envoyer un Message",
+      "fields": {
+        "fullName": {
+          "label": "Nom Complet",
+          "placeholder": "Jean Dupont"
+        },
+        "email": {
+          "label": "Adresse Email",
+          "placeholder": "jean@entreprise.com"
+        },
+        "phone": {
+          "label": "Numéro de Téléphone",
+          "placeholder": "+232..."
+        },
+        "interest": {
+          "label": "Je suis intéressé par...",
+          "placeholder": "Sélectionnez une option"
+        },
+        "message": {
+          "label": "Détails du Projet",
+          "placeholder": "Parlez-nous de votre emplacement, de votre calendrier et de vos exigences..."
+        }
+      },
+      "interestOptions": [
+        "Demande Générale",
+        "Devis de Transport de Minerai",
+        "Services de Forage",
+        "Location d'Équipement",
+        "Logistique/Cargaison"
+      ],
+      "submitButton": "Envoyer le Message"
+    },
+    "map": {
+      "location": "Freetown, Sierra Leone"
+    }
+  }
+}
