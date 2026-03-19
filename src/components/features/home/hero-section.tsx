@@ -1,4 +1,4 @@
-import { Link } from "@tanstack/react-router";
+// import { Link } from "@tanstack/react-router";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import heroBg from "@/assets/hero.jpg";
@@ -192,7 +192,7 @@ export const HeroSection = () => {
           >
             <h3 className="mb-6 font-bold text-2xl text-white text-center">{t("rental.button.fleet")}</h3>
             <div className="flex flex-col gap-6">
-              {fleet.map((item, idx) => (
+              {fleet.map((item) => (
                 <div key={item.key} className="flex items-center gap-6 bg-white/5 rounded-xl p-4">
                   <img src={item.image} alt={item.title} className="w-24 h-24 object-cover rounded-lg border border-white/10" />
                   <div className="flex-1">
