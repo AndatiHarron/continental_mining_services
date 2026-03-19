@@ -48,8 +48,8 @@ export const Navbar = () => {
           <img
             src={logo}
             alt="Continental Mining Logo"
-            className="h-[88px] w-auto"
-            height={88}
+            className="h-[58px] w-auto"
+            height={58}
           />
         </Link>
 
