@@ -332,14 +332,30 @@ export const ServiceDetailedList = () => {
                   })}
                 </div>
 
-                {/* CTA Button */}
+                {/* CTA Button - WhatsApp with pre-filled message */}
                 <div className="flex justify-center">
-                  <Button
-                    className="bg-secondary font-semibold text-white hover:bg-secondary/90"
-                    size="lg"
-                  >
-                    {ctaText}
-                  </Button>
+                  {(() => {
+                    // WhatsApp number (update if needed)
+                    const whatsappNumber = "254710337605";
+                    let waText = "Hello, I would like to make an enquiry.";
+                    if (service.key === "oreHaulage") {
+                      waText = "Hello, I would like to request a quote for ore haulage services.";
+                    } else if (service.key === "mineDrilling") {
+                      waText = "Hello, I would like to discuss my mine drilling requirements.";
+                    } else if (service.key === "flatbedCargo") {
+                      waText = "Hello, I am interested in getting rates for flatbed cargo movement.";
+                    } else if (service.key === "containerMovement") {
+                      waText = "Hello, I would like to request information about your container movement services.";
+                    }
+                    const waUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(waText)}`;
+                    return (
+                      <a href={waUrl} target="_blank" rel="noopener noreferrer">
+                        <Button className="bg-secondary font-semibold text-white hover:bg-secondary/90" size="lg">
+                          {ctaText}
+                        </Button>
+                      </a>
+                    );
+                  })()}
                 </div>
               </motion.div>
             );
